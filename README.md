@@ -4,9 +4,10 @@ A starter AngularJS repository for getting started with AngularJS. Includes help
 
 ## Installation
 
-1. `npm install -g grunt-cli`
-2. `npm install`
-3. `grunt install`
+1. `sudo npm install -g grunt-cli`
+2. `sudo npm install -g selenium`
+3. `npm install`
+4. `grunt install`
 
 ## Development
 
