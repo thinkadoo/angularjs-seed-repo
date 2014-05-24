@@ -8,7 +8,7 @@ module.exports = function(grunt) {
         stdout: true
       },
       selenium: {
-        command: './selenium/start',
+        command: './node_modules/protractor/bin/webdriver-manager start',
         options: {
           stdout: false,
           async: true
@@ -147,7 +147,7 @@ module.exports = function(grunt) {
           type : 'html',
           dir : 'coverage/'
         }
-      },
+      }
     }
   });
 
