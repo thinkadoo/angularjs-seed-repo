@@ -38,3 +38,6 @@ A starter AngularJS repository for getting started with AngularJS. Includes help
 ### Coverage Testing
 
 `grunt coverage`
+
+The browser will open to localhost:5555 you need to copy and paste the coverage report folder after it
+e.g. http://localhost:5555/Chrome 35.0.1916 (Mac OS X 10.9.3)
