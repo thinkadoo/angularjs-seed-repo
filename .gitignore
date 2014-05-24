@@ -2,6 +2,8 @@
 .agignore
 node_modules
 bower_components
+npm-debug.log
+/.idea
 /selenium
 /coverage
 /app/assets
